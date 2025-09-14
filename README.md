@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Shreyash NIkhare
+# 💫 Hi 👋, I'm Shreyash Nikhare
 **Final year Computer Science student at VIT, Pune | Skilled in Full Stack Development, Data Science, AI and Machine Learning.**
 
 Email Me 👉 ✉️ **shreyashnikhare1504@gmail.com** For Collaboration/Project or Anything Else. 😊😊
