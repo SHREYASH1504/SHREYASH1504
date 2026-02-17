@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **shreyashnikhare1504@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Predictive Maintenance Platform for Industrial Assets 
+- 🔭 **I’m currently working on:** User Generative Content Project
 - 🌱 **I’m currently learning:** Machine Learning and AI
 - 👯 **I’m looking to collaborate on:** Web Dev and AI/ML projects
 - 💬 **Ask me about:** Collaboration, Tech Support
